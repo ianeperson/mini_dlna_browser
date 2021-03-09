@@ -1,4 +1,4 @@
-This is a simple DLNA/UPNP browser providing a user interface to a remote minidlna server.
+This is a simple DLNA/UPNP browser providing a minimal graphical user interface to access remote minidlna server.
 
 It was inspired by Javier López's simple-dlna-browser (https://github.com/javier-lopez/learn/blob/master/sh/tools/simple-dlna-browser) which a is triumph of shell scripting.  Thanks to Javier for the headers and SOAP action scripts. 
 
